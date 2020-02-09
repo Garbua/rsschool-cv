@@ -32,12 +32,12 @@ Ability to learn quickly, commitment, stress resistance, discipline, accuracy.
 * **2004 - 2007 - Minsk industrial and pedagogical College /Industrial and civil engineering**
 
 
- * **march - september 2018**  -  **programming school [`<TeachMeSkills/>`][3]**  
+ * **march - september 2018**  -  **programming school [*TeachMeSkills*][3]**  
  Java SE / Java EE, MySql, Jstl, Apache Tomcat, SQL  
  [TIC-TAC-toe game][1] in Java (still raw version) - login, registration, game  
  Jstl - [my tag][2]
  
- * **february 2020 - interactive online courses [HtmlAcademy][4]**  
+ * **february 2020 - interactive online courses [*HtmlAcademy*][4]**  
  HTML + CSS basics courses
 
 
