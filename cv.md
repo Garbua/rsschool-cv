@@ -34,6 +34,7 @@ Ability to learn quickly, commitment, stress resistance, discipline, accuracy.
 
  * **march - september 2018**  -  **programming school [*TeachMeSkills*][3]**  
  Java SE / Java EE, MySql, Jstl, Apache Tomcat, SQL  
+ *Code examples:*    
  [TIC-TAC-toe game][1] in Java (still raw version) - login, registration, game  
  Jstl - [my tag][2]
  
