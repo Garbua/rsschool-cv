@@ -1,0 +1,108 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	background: #f2f2f2;
+	padding-bottom: 65px;
+	font-size: 62.5%;
+}
+
+h1 {
+	font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif;
+	color: #454545;
+	font-size: 3.6em;
+	margin-bottom: 6px;
+}
+
+h2 {
+	font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif;
+	color: #484848;
+	font-size: 2.5em;
+	margin-bottom: 10px;
+	text-decoration: underline;
+}
+
+p {
+	font-family: "Balthazar", "Droid Serif", Times New Roman, serif;
+	color: #565656;
+	font-size: 1.8em;
+	line-height: 1.4em;
+	margin-bottom: 15px;
+	padding-left: 35px;
+}
+
+small {
+	font-family: "Balthazar", serif;
+	color: #656565;
+	font-size: 1.6em;
+	display: block;
+	margin-bottom: 6px;
+}
+
+ul {
+	display: block;
+	padding-left: 45px;
+}
+
+ul li {
+	list-style-type: unset;
+	vertical-align: top;
+	margin-bottom: 5px;
+	font-family: "Balthazar", serif;
+	color: #666666;
+	font-size: 1.6em;
+	line-height: 2.3em;
+}
+
+header {
+	width: 100%;
+	display: inline-block;
+}
+
+a {
+	color: #5582d6;
+	text-decoration: none;
+}
+
+/** personal settings **/
+
+#sheet {
+	margin: 0px 50px;
+	padding: 20px 40px;
+	padding-top: 35px;
+	background: #ffffff;
+	max-width: 900px;
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+}
+
+#info {
+	float: left;
+	margin-bottom: 12px;
+}
+
+#photo {
+	float: right;
+}
+
+#photo img {
+	border-radius: 3px;
+	background-color: #ffffff;
+	border: 1px solid #cccccc;
+	padding: 5px;
+	max-width: 100%;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.bold {
+	font-weight: bold;
+}

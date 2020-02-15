@@ -1,1 +1,1 @@
-# rsschool-cv
+https://garbua.github.io/rsschool-cv/
